@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <!--
 **HuXin0817/HuXin0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
