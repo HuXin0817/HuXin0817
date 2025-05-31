@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Huxin
+## 👋 Hello! I'm XinHu
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
