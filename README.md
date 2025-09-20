@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Xin Hu
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://mmbiz.qpic.cn/mmbiz_gif/pFn9FZn1JXUPhzGP5UrUCiazngIicHLMnWjFmsBicQ0uHvicVSPibcXU22e8I29WPhicMvEQx5MPOtjoicwRBfhyibrIdA/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 - 🎓 I'm an undergraduate student majoring in Intelligent Science and Technology at Chengdu University of Technology. My research interests focus on **vector databases**.
 - 🏆 I'm passionate about database-related competitions and achieved **3rd place nationally** in the 2024 OceanBase Competition.
