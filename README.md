@@ -11,6 +11,3 @@
 
 ---
 ⭐️ **Feel free to explore my repositories and connect with me!** 🚀
-
-[![HuXin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuXin0817&line_height=24.5&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
