@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Xin Hu
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+[![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=151725619)
 
 - 🎓 I'm an undergraduate student majoring in Intelligent Science and Technology at Chengdu University of Technology. My research interests focus on **vector databases**.
 - 🏆 I'm passionate about database-related competitions and achieved **3rd place nationally** in the 2024 OceanBase Competition.
