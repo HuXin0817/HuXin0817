@@ -1,7 +1,6 @@
 ## 👋 Hello! I'm Xin Hu
 
 - 🎓 I'm an undergraduate student majoring in Intelligent Science and Technology at Chengdu University of Technology. My research interests focus on **vector databases**.
-- 🏆 I'm passionate about database-related competitions and achieved **3rd place nationally** in the 2024 OceanBase Competition.
 - 💼 I'm currently interning at **OceanBase, Ant Group**.
 - 🤝 If you're also interested in **databases** and open to collaboration, feel free to reach out to me!  
 
