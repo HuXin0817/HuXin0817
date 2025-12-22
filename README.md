@@ -1,10 +1,10 @@
 ## 👋 Hello! I'm Xin Hu
 
-- 🎓 I'm an undergraduate student majoring in Intelligent Science and Technology at Chengdu University of Technology. My research interests focus on **vector databases**.
-- 💼 I'm currently interning at **OceanBase, Ant Group**.
-- 🤝 If you're also interested in **databases** and open to collaboration, feel free to reach out to me!  
+- 🎓 I am an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**.
+- 💼 I completed a research and development internship at OceanBase of Ant Group in 2025.
+- 🤝 My research interests include database systems and vector databases.  
 
-📧 **Email:** [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn), [yixue.hx@oceanbase.com](mailto:yixue.hx@oceanbase.com)
+📧 **Email:** [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn)
 
 ⭐️ **Feel free to explore my repositories and connect with me!** 🚀
 
