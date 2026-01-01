@@ -19,4 +19,5 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-<center>⭐️ <b>Feel free to explore my repositories and connect with me!</b> 🚀</center>
+<p align="center"> <i>Feel free to explore my repositories and connect with me!</i>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=huxin0817.huxin0817" alt="visitor badge"/></p>
