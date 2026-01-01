@@ -1,12 +1,10 @@
 ## 👋 Hello! I'm Xin Hu
 
 - 🎓 I am an undergraduate student majoring in Intelligent Science and Technology at **Chengdu University of Technology**.
-- 💼 I completed a research and development internship at **OceanBase of Ant Group** in 2025.
-- 🤝 My research interests include database systems and vector databases.  
+- 💼 I completed a research and development internship at **OceanBase, Ant Group** in 2025.
+- 🤝 My research interests include **database system**.  
 
 📧 **Email:** [202219120810@stu.cdut.edu.cn](mailto:202219120810@stu.cdut.edu.cn)
-
-⭐️ **Feel free to explore my repositories and connect with me!** 🚀
 
 ---
 
@@ -20,3 +18,5 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<center>⭐️ <b>Feel free to explore my repositories and connect with me!</b> 🚀</center>
