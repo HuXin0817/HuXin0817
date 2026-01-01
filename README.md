@@ -19,4 +19,6 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+---
+
 <p align="center"> <i>Feel free to explore my repositories and connect with me!</i>
